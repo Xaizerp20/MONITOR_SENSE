@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Hop1djnMbCLpeNZEri8UkHIIsoGEcPdIT0uEbWI/vR4Hc0MBm+byM2OYfEYSxPj1NCGHasEI4uLRs0jR7WfYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xavic\\source\\repos\\MONITOR4-SENSE\\MONITOR4-SENSE\\MONITOR4-SENSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xavic\\.nuget\\packages\\mqttnet\\4.2.1.781\\mqttnet.4.2.1.781.nupkg.sha512",
+    "C:\\Users\\xavic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\xavic\\.nuget\\packages\\system.device.gpio\\3.0.0\\system.device.gpio.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
