@@ -18,7 +18,7 @@ Este repositorio contiene el código y los recursos necesarios para el proyecto 
 1. **Clonar el Repositorio**: Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/Xaizerp20/MONITOR_SENSE.git
 
 
 ## Configuración 
